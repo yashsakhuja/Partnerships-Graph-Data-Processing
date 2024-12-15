@@ -1,0 +1,250 @@
+,Team,Over,Ball,Ball ID,score,Runs,bowler,on_strike_batter,commentary,fow,Batting_Order_Strike,out_batsman,Batting_Order_Out,partnership_key,Batting_Order_NonStrike,non_strike_batter,partnership_key_name,nb_runs,wide_runs,leg_bye_flag,bye_flag,leg_bye_runs,bye_runs,extras_runs,Bat_Runs
+0,Lancashire,0,1,0,1,1,Jacks,Salt,"Jacks to Salt,  1 run",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+1,Lancashire,0,2,1,1,1,Jacks,Buttler,"Jacks to Buttler,  1 run",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+2,Lancashire,0,3,2,4,4,Jacks,Salt,"Jacks to Salt, FOUR runs",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,4
+3,Lancashire,0,4,3,1,1,Jacks,Salt,"Jacks to Salt,  1 run",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+4,Lancashire,0,5,4,6,6,Jacks,Buttler,"Jacks to Buttler,  SIX runs",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,6
+5,Lancashire,0,6,5,0,0,Jacks,Buttler,"Jacks to Buttler, no run",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,0
+6,Lancashire,1,1,6,4,4,Sam Curran,Salt,"Sam Curran to Salt, FOUR runs",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,4
+7,Lancashire,1,2,7,1,1,Sam Curran,Salt,"Sam Curran to Salt,  1 run",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+8,Lancashire,1,3,8,4,4,Sam Curran,Buttler,"Sam Curran to Buttler, FOUR runs",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,4
+9,Lancashire,1,4,9,0,0,Sam Curran,Buttler,"Sam Curran to Buttler, no run",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,0
+10,Lancashire,1,5,10,1,1,Sam Curran,Buttler,"Sam Curran to Buttler,  1 run",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+11,Lancashire,1,6,11,0,0,Sam Curran,Salt,"Sam Curran to Salt, no run",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,0
+12,Lancashire,2,1,12,1,1,Moriarty,Buttler,"Moriarty to Buttler,  1 run",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+13,Lancashire,2,2,13,1,1,Moriarty,Salt,"Moriarty to Salt,  1 run",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+14,Lancashire,2,3,14,1,1,Moriarty,Buttler,"Moriarty to Buttler,  1 run",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+15,Lancashire,2,4,15,1,1,Moriarty,Salt,"Moriarty to Salt,  1 run",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,1
+16,Lancashire,2,5,16,4,4,Moriarty,Buttler,"Moriarty to Buttler, FOUR runs",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,4
+17,Lancashire,2,6,17,0,0,Moriarty,Buttler,"Moriarty to Buttler, no run",,2,,,"(1, 2)",1,Salt,"('Salt', 'Buttler')",0,0,0,0,0,0,0,0
+18,Lancashire,3,1,18,0,0,Abbott,Salt,"Abbott to Salt, no run",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,0
+19,Lancashire,3,2,19,4lb,4,Abbott,Salt,"Abbott to Salt, 4 leg byes",,1,,,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,1,0,4,0,4,0
+20,Lancashire,3,3,20,W,0,Abbott,Salt,"Abbott to Salt, OUT",Phil Salt c Jordan b Abbott 13 (11b 2x4 0x6 14m) SR: 118.18,1,Salt,1,"(1, 2)",2,Buttler,"('Salt', 'Buttler')",0,0,0,0,0,0,0,0
+21,Lancashire,3,4,21,0,0,Abbott,Croft,"Abbott to Croft, no run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+22,Lancashire,3,5,22,0,0,Abbott,Croft,"Abbott to Croft, no run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+23,Lancashire,3,6,23,1,1,Abbott,Croft,"Abbott to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+24,Lancashire,4,1,24,0,0,Moriarty,Croft,"Moriarty to Croft, no run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+25,Lancashire,4,2,25,4,4,Moriarty,Croft,"Moriarty to Croft, FOUR runs",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,4
+26,Lancashire,4,3,26,0,0,Moriarty,Croft,"Moriarty to Croft, no run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+27,Lancashire,4,4,27,4,4,Moriarty,Croft,"Moriarty to Croft, FOUR runs",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,4
+28,Lancashire,4,5,28,2,2,Moriarty,Croft,"Moriarty to Croft,  2 runs",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,2
+29,Lancashire,4,6,29,4,4,Moriarty,Croft,"Moriarty to Croft, FOUR runs",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,4
+30,Lancashire,5,1,30,1,1,Jordan,Buttler,"Jordan to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+31,Lancashire,5,2,31,4,4,Jordan,Croft,"Jordan to Croft, FOUR runs",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,4
+32,Lancashire,5,3,32,0,0,Jordan,Croft,"Jordan to Croft, no run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+33,Lancashire,5,4,33,1,1,Jordan,Croft,"Jordan to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+34,Lancashire,5,5,34,0,0,Jordan,Buttler,"Jordan to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+35,Lancashire,5,6,35,1,1,Jordan,Buttler,"Jordan to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+36,Lancashire,6,1,36,6,6,Narine,Buttler,"Narine to Buttler,  SIX runs",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,6
+37,Lancashire,6,2,37,6,6,Narine,Buttler,"Narine to Buttler,  SIX runs",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,6
+38,Lancashire,6,3,38,1,1,Narine,Buttler,"Narine to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+39,Lancashire,6,4,39,1,1,Narine,Croft,"Narine to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+40,Lancashire,6,5,40,0,0,Narine,Buttler,"Narine to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+41,Lancashire,6,6,41,1,1,Narine,Buttler,"Narine to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+42,Lancashire,7,1,42,4b,4,Sam Curran,Buttler,"Sam Curran to Buttler, 4 byes",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,1,0,4,4,0
+43,Lancashire,7,2,43,0,0,Sam Curran,Buttler,"Sam Curran to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+44,Lancashire,7,3,44,1,1,Sam Curran,Buttler,"Sam Curran to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+45,Lancashire,7,4,45,1,1,Sam Curran,Croft,"Sam Curran to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+46,Lancashire,7,5,46,2,2,Sam Curran,Buttler,"Sam Curran to Buttler,  2 runs",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,2
+47,Lancashire,7,6,47,0,0,Sam Curran,Buttler,"Sam Curran to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+48,Lancashire,8,1,48,4,4,Abbott,Croft,"Abbott to Croft, FOUR runs",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,4
+49,Lancashire,8,2,49,0,0,Abbott,Croft,"Abbott to Croft, no run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+50,Lancashire,8,3,50,1,1,Abbott,Croft,"Abbott to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+51,Lancashire,8,4,51,0,0,Abbott,Buttler,"Abbott to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+52,Lancashire,8,5,52,0,0,Abbott,Buttler,"Abbott to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+53,Lancashire,8,6,53,1,1,Abbott,Buttler,"Abbott to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+54,Lancashire,9,1,54,0,0,Narine,Buttler,"Narine to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+55,Lancashire,9,2,55,1,1,Narine,Buttler,"Narine to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+56,Lancashire,9,3,56,4lb,4,Narine,Croft,"Narine to Croft, 4 leg byes",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,1,0,4,0,4,0
+57,Lancashire,9,4,57,1,1,Narine,Croft,"Narine to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+58,Lancashire,9,5,58,0,0,Narine,Buttler,"Narine to Buttler, no run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+59,Lancashire,9,6,59,2,2,Narine,Buttler,"Narine to Buttler,  2 runs",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,2
+60,Lancashire,10,1,60,1,1,Moriarty,Croft,"Moriarty to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+61,Lancashire,10,2,61,1,1,Moriarty,Buttler,"Moriarty to Buttler,  1 run",,2,,,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+62,Lancashire,10,3,62,1,1,Moriarty,Croft,"Moriarty to Croft,  1 run",,3,,,"(3, 2)",2,Buttler,"('Croft', 'Buttler')",0,0,0,0,0,0,0,1
+63,Lancashire,10,4,63,W,0,Moriarty,Buttler,"Moriarty to Buttler, OUT",Jos Buttler c Evans b Moriarty 42 (32b 2x4 3x6 39m) SR: 131.25,2,Buttler,2,"(3, 2)",3,Croft,"('Croft', 'Buttler')",0,0,0,0,0,0,0,0
+64,Lancashire,10,5,64,1,1,Moriarty,Livingstone,"Moriarty to Livingstone,  1 run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,1
+65,Lancashire,10,6,65,2,2,Moriarty,Croft,"Moriarty to Croft,  2 runs",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,2
+66,Lancashire,11,1,66,0,0,Narine,Livingstone,"Narine to Livingstone, no run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+67,Lancashire,11,2,67,0,0,Narine,Livingstone,"Narine to Livingstone, no run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+68,Lancashire,11,3,68,0,0,Narine,Livingstone,"Narine to Livingstone, no run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+69,Lancashire,11,4,69,1,1,Narine,Livingstone,"Narine to Livingstone,  1 run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,1
+70,Lancashire,11,5,70,1,1,Narine,Croft,"Narine to Croft,  1 run",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,1
+71,Lancashire,11,6,71,0,0,Narine,Livingstone,"Narine to Livingstone, no run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+72,Lancashire,12,1,72,3lb,3,Jordan,Croft,"Jordan to Croft, 3 leg byes",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,1,0,3,0,3,0
+73,Lancashire,12,2,73,3n-l,3,Jordan,Livingstone,"Jordan to Livingstone, (no ball) 1 leg bye",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",2,0,1,0,1,0,3,0
+74,Lancashire,12,2,74,4,4,Jordan,Croft,"Jordan to Croft, FOUR runs",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,4
+75,Lancashire,12,3,75,0,0,Jordan,Croft,"Jordan to Croft, no run",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+76,Lancashire,12,4,76,1,1,Jordan,Croft,"Jordan to Croft,  1 run",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,1
+77,Lancashire,12,5,77,0,0,Jordan,Livingstone,"Jordan to Livingstone, no run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+78,Lancashire,12,6,78,1lb,1,Jordan,Livingstone,"Jordan to Livingstone, 1 leg bye",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,1,0,1,0,1,0
+79,Lancashire,13,1,79,1,1,Narine,Livingstone,"Narine to Livingstone,  1 run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,1
+80,Lancashire,13,2,80,4,4,Narine,Croft,"Narine to Croft, FOUR runs",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,4
+81,Lancashire,13,3,81,1,1,Narine,Croft,"Narine to Croft,  1 run",,3,,,"(3, 4)",4,Livingstone,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,1
+82,Lancashire,13,4,82,0,0,Narine,Livingstone,"Narine to Livingstone, no run",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+83,Lancashire,13,5,83,4,4,Narine,Livingstone,"Narine to Livingstone, FOUR runs",,4,,,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,4
+84,Lancashire,13,6,84,W,0,Narine,Livingstone,"Narine to Livingstone, OUT",Liam Livingstone c Overton b Narine 7 (13b 1x4 0x6 14m) SR: 53.84,4,Livingstone,4,"(3, 4)",3,Croft,"('Croft', 'Livingstone')",0,0,0,0,0,0,0,0
+85,Lancashire,14,1,85,0,0,Abbott,Croft,"Abbott to Croft, no run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,0
+86,Lancashire,14,2,86,6,6,Abbott,Croft,"Abbott to Croft,  SIX runs",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,6
+87,Lancashire,14,3,87,1,1,Abbott,Croft,"Abbott to Croft,  1 run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+88,Lancashire,14,4,88,2,2,Abbott,Mitchell,"Abbott to Mitchell,  2 runs",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,2
+89,Lancashire,14,5,89,1,1,Abbott,Mitchell,"Abbott to Mitchell,  1 run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+90,Lancashire,14,6,90,0,0,Abbott,Croft,"Abbott to Croft, no run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,0
+91,Lancashire,15,1,91,1,1,Sam Curran,Mitchell,"Sam Curran to Mitchell,  1 run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+92,Lancashire,15,2,92,1,1,Sam Curran,Croft,"Sam Curran to Croft,  1 run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+93,Lancashire,15,3,93,1,1,Sam Curran,Mitchell,"Sam Curran to Mitchell,  1 run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+94,Lancashire,15,4,94,1w,1,Sam Curran,Croft,"Sam Curran to Croft, 1 wide",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,1,0,0,0,0,1,0
+95,Lancashire,15,4,95,1,1,Sam Curran,Croft,"Sam Curran to Croft,  1 run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+96,Lancashire,15,5,96,1,1,Sam Curran,Mitchell,"Sam Curran to Mitchell,  1 run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+97,Lancashire,15,6,97,1,1,Sam Curran,Croft,"Sam Curran to Croft,  1 run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+98,Lancashire,16,1,98,1,1,Jordan,Croft,"Jordan to Croft,  1 run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+99,Lancashire,16,2,99,1,1,Jordan,Mitchell,"Jordan to Mitchell,  1 run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+100,Lancashire,16,3,100,0,0,Jordan,Croft,"Jordan to Croft, no run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,0
+101,Lancashire,16,4,101,1,1,Jordan,Croft,"Jordan to Croft,  1 run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+102,Lancashire,16,5,102,1,1,Jordan,Mitchell,"Jordan to Mitchell,  1 run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,1
+103,Lancashire,16,6,103,0,0,Jordan,Croft,"Jordan to Croft, no run",,3,,,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,0
+104,Lancashire,17,1,104,2,2,Sam Curran,Mitchell,"Sam Curran to Mitchell,  2 runs",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,2
+105,Lancashire,17,2,105,0,0,Sam Curran,Mitchell,"Sam Curran to Mitchell, no run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,0
+106,Lancashire,17,3,106,6,6,Sam Curran,Mitchell,"Sam Curran to Mitchell,  SIX runs",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,6
+107,Lancashire,17,4,107,2,2,Sam Curran,Mitchell,"Sam Curran to Mitchell,  2 runs",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,2
+108,Lancashire,17,5,108,4,4,Sam Curran,Mitchell,"Sam Curran to Mitchell, FOUR runs",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,4
+109,Lancashire,17,6,109,0,0,Sam Curran,Mitchell,"Sam Curran to Mitchell, no run",,5,,,"(3, 5)",3,Croft,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,0
+110,Lancashire,18,1,110,W,0,Jordan,Croft,"Jordan to Croft, OUT",Steven Croft b Jordan 55 (41b 7x4 1x6 58m) SR: 134.14,3,Croft,3,"(3, 5)",5,Mitchell,"('Croft', 'Mitchell')",0,0,0,0,0,0,0,0
+111,Lancashire,18,2,111,1,1,Jordan,Wells,"Jordan to Wells,  1 run",,6,,,"(6, 5)",5,Mitchell,"('Wells', 'Mitchell')",0,0,0,0,0,0,0,1
+112,Lancashire,18,3,112,1W,1,Jordan,Mitchell,"Jordan to Mitchell, 1 run, OUT",Luke Wells run out (Jordan) 1 (1b 0x4 0x6 3m) SR: 100,5,Wells,6,"(6, 5)",6,Wells,"('Wells', 'Mitchell')",0,0,0,0,0,0,0,1
+113,Lancashire,18,4,113,3nb,3,Jordan,Mitchell,"Jordan to Mitchell, (no ball) 1 run",,5,,,"(7, 5)",7,Vilas,"('Vilas', 'Mitchell')",2,0,0,0,0,0,2,1
+114,Lancashire,18,4,114,2nb,2,Jordan,Vilas,"Jordan to Vilas, (no ball)",,7,,,"(7, 5)",5,Mitchell,"('Vilas', 'Mitchell')",2,0,0,0,0,0,2,0
+115,Lancashire,18,4,115,2,2,Jordan,Vilas,"Jordan to Vilas,  2 runs",,7,,,"(7, 5)",5,Mitchell,"('Vilas', 'Mitchell')",0,0,0,0,0,0,0,2
+116,Lancashire,18,5,116,W,0,Jordan,Vilas,"Jordan to Vilas, OUT",Dane Vilas c Curran b Jordan 2 (3b 0x4 0x6 4m) SR: 66.66,7,Vilas,7,"(7, 5)",5,Mitchell,"('Vilas', 'Mitchell')",0,0,0,0,0,0,0,0
+117,Lancashire,18,6,117,1,1,Jordan,Jones,"Jordan to Jones,  1 run",,8,,,"(8, 5)",5,Mitchell,"('Jones', 'Mitchell')",0,0,0,0,0,0,0,1
+118,Lancashire,19,1,118,1,1,Abbott,Jones,"Abbott to Jones,  1 run",,8,,,"(8, 5)",5,Mitchell,"('Jones', 'Mitchell')",0,0,0,0,0,0,0,1
+119,Lancashire,19,2,119,1w,1,Abbott,Mitchell,"Abbott to Mitchell, 1 wide",,5,,,"(8, 5)",8,Jones,"('Jones', 'Mitchell')",0,1,0,0,0,0,1,0
+120,Lancashire,19,2,120,0,0,Abbott,Mitchell,"Abbott to Mitchell, no run",,5,,,"(8, 5)",8,Jones,"('Jones', 'Mitchell')",0,0,0,0,0,0,0,0
+121,Lancashire,19,3,121,0,0,Abbott,Mitchell,"Abbott to Mitchell, no run",,5,,,"(8, 5)",8,Jones,"('Jones', 'Mitchell')",0,0,0,0,0,0,0,0
+122,Lancashire,19,4,122,1,1,Abbott,Mitchell,"Abbott to Mitchell,  1 run",,5,,,"(8, 5)",8,Jones,"('Jones', 'Mitchell')",0,0,0,0,0,0,0,1
+123,Lancashire,19,5,123,1,1,Abbott,Jones,"Abbott to Jones,  1 run",,8,,,"(8, 5)",5,Mitchell,"('Jones', 'Mitchell')",0,0,0,0,0,0,0,1
+124,Lancashire,19,6,124,1,1,Abbott,Mitchell,"Abbott to Mitchell,  1 run",,5,,,"(8, 5)",8,Jones,"('Jones', 'Mitchell')",0,0,0,0,0,0,0,1
+125,Surrey,0,1,0,0,0,Wood,Jacks,"Wood to Jacks, no run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+126,Surrey,0,2,1,0,0,Wood,Jacks,"Wood to Jacks, no run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+127,Surrey,0,3,2,0,0,Wood,Jacks,"Wood to Jacks, no run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+128,Surrey,0,4,3,0,0,Wood,Jacks,"Wood to Jacks, no run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+129,Surrey,0,5,4,2,2,Wood,Jacks,"Wood to Jacks,  2 runs",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,2
+130,Surrey,0,6,5,1w,1,Wood,Jacks,"Wood to Jacks, 1 wide",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,1,0,0,0,0,1,0
+131,Surrey,0,6,6,4,4,Wood,Jacks,"Wood to Jacks, FOUR runs",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,4
+132,Surrey,1,1,7,0,0,Bailey,Evans,"Bailey to Evans, no run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+133,Surrey,1,2,8,2,2,Bailey,Evans,"Bailey to Evans,  2 runs",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,2
+134,Surrey,1,3,9,0,0,Bailey,Evans,"Bailey to Evans, no run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+135,Surrey,1,4,10,1,1,Bailey,Evans,"Bailey to Evans,  1 run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,1
+136,Surrey,1,5,11,1,1,Bailey,Jacks,"Bailey to Jacks,  1 run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,1
+137,Surrey,1,6,12,1,1,Bailey,Evans,"Bailey to Evans,  1 run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,1
+138,Surrey,2,1,13,1,1,Wood,Evans,"Wood to Evans,  1 run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,1
+139,Surrey,2,2,14,0,0,Wood,Jacks,"Wood to Jacks, no run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+140,Surrey,2,3,15,0,0,Wood,Jacks,"Wood to Jacks, no run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+141,Surrey,2,4,16,1,1,Wood,Jacks,"Wood to Jacks,  1 run",,2,,,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,1
+142,Surrey,2,5,17,0,0,Wood,Evans,"Wood to Evans, no run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+143,Surrey,2,6,18,1,1,Wood,Evans,"Wood to Evans,  1 run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,1
+144,Surrey,3,1,19,6,6,Bailey,Evans,"Bailey to Evans,  SIX runs",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,6
+145,Surrey,3,2,20,2,2,Bailey,Evans,"Bailey to Evans,  2 runs",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,2
+146,Surrey,3,3,21,6,6,Bailey,Evans,"Bailey to Evans,  SIX runs",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,6
+147,Surrey,3,4,22,2,2,Bailey,Evans,"Bailey to Evans,  2 runs",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,2
+148,Surrey,3,5,23,1,1,Bailey,Evans,"Bailey to Evans,  1 run",,1,,,"(1, 2)",2,Jacks,"('Evans', 'Jacks')",0,0,0,0,0,0,0,1
+149,Surrey,3,6,24,W,0,Bailey,Jacks,"Bailey to Jacks, OUT",Will Jacks c Wells b Bailey 8 (11b 1x4 0x6 17m) SR: 72.72,2,Jacks,2,"(1, 2)",1,Evans,"('Evans', 'Jacks')",0,0,0,0,0,0,0,0
+150,Surrey,4,1,25,0,0,Wood,Evans,"Wood to Evans, no run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+151,Surrey,4,2,26,1,1,Wood,Evans,"Wood to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+152,Surrey,4,3,27,1,1,Wood,Roy,"Wood to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+153,Surrey,4,4,28,6,6,Wood,Evans,"Wood to Evans,  SIX runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,6
+154,Surrey,4,5,29,6nb,6,Wood,Evans,"Wood to Evans, (no ball) FOUR runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",2,0,0,0,0,0,2,4
+155,Surrey,4,5,30,4,4,Wood,Evans,"Wood to Evans, FOUR runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+156,Surrey,4,6,31,0,0,Wood,Evans,"Wood to Evans, no run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+157,Surrey,5,1,32,0,0,Mitchell,Roy,"Mitchell to Roy, no run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+158,Surrey,5,2,33,1w,1,Mitchell,Roy,"Mitchell to Roy, 1 wide",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,1,0,0,0,0,1,0
+159,Surrey,5,2,34,1,1,Mitchell,Roy,"Mitchell to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+160,Surrey,5,3,35,0,0,Mitchell,Evans,"Mitchell to Evans, no run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+161,Surrey,5,4,36,4,4,Mitchell,Evans,"Mitchell to Evans, FOUR runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+162,Surrey,5,5,37,1,1,Mitchell,Evans,"Mitchell to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+163,Surrey,5,6,38,1,1,Mitchell,Roy,"Mitchell to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+164,Surrey,6,1,39,0,0,Wells,Roy,"Wells to Roy, no run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+165,Surrey,6,2,40,1lb,1,Wells,Roy,"Wells to Roy, 1 leg bye",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,1,0,1,0,1,0
+166,Surrey,6,3,41,0,0,Wells,Evans,"Wells to Evans, no run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+167,Surrey,6,4,42,1,1,Wells,Evans,"Wells to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+168,Surrey,6,5,43,1,1,Wells,Roy,"Wells to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+169,Surrey,6,6,44,1,1,Wells,Evans,"Wells to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+170,Surrey,7,1,45,0,0,Hartley,Evans,"Hartley to Evans, no run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+171,Surrey,7,2,46,1,1,Hartley,Evans,"Hartley to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+172,Surrey,7,3,47,1,1,Hartley,Roy,"Hartley to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+173,Surrey,7,4,48,4,4,Hartley,Evans,"Hartley to Evans, FOUR runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+174,Surrey,7,5,49,1,1,Hartley,Evans,"Hartley to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+175,Surrey,7,6,50,4,4,Hartley,Roy,"Hartley to Roy, FOUR runs",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+176,Surrey,8,1,51,2,2,Wells,Evans,"Wells to Evans,  2 runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,2
+177,Surrey,8,2,52,0,0,Wells,Evans,"Wells to Evans, no run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+178,Surrey,8,3,53,3,3,Wells,Evans,"Wells to Evans,  3 runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,3
+179,Surrey,8,4,54,0,0,Wells,Roy,"Wells to Roy, no run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+180,Surrey,8,5,55,1,1,Wells,Roy,"Wells to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+181,Surrey,8,6,56,2,2,Wells,Evans,"Wells to Evans,  2 runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,2
+182,Surrey,9,1,57,1,1,Mitchell,Roy,"Mitchell to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+183,Surrey,9,2,58,1,1,Mitchell,Evans,"Mitchell to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+184,Surrey,9,3,59,4,4,Mitchell,Roy,"Mitchell to Roy, FOUR runs",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+185,Surrey,9,4,60,1,1,Mitchell,Roy,"Mitchell to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+186,Surrey,9,5,61,4,4,Mitchell,Evans,"Mitchell to Evans, FOUR runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+187,Surrey,9,6,62,1,1,Mitchell,Evans,"Mitchell to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+188,Surrey,10,1,63,1,1,Wells,Evans,"Wells to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+189,Surrey,10,2,64,1,1,Wells,Roy,"Wells to Roy,  1 run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+190,Surrey,10,3,65,0,0,Wells,Evans,"Wells to Evans, no run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+191,Surrey,10,4,66,1,1,Wells,Evans,"Wells to Evans,  1 run",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,1
+192,Surrey,10,5,67,4,4,Wells,Roy,"Wells to Roy, FOUR runs",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+193,Surrey,10,6,68,0,0,Wells,Roy,"Wells to Roy, no run",,3,,,"(1, 3)",1,Evans,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+194,Surrey,11,1,69,4,4,Livingstone,Evans,"Livingstone to Evans, FOUR runs",,1,,,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,4
+195,Surrey,11,2,70,W,0,Livingstone,Evans,"Livingstone to Evans, OUT",Laurie Evans b Livingstone 70 (41b 6x4 3x6 44m) SR: 170.73,1,Evans,1,"(1, 3)",3,Roy,"('Evans', 'Roy')",0,0,0,0,0,0,0,0
+196,Surrey,11,3,71,1,1,Livingstone,Curran,"Livingstone to Sam Curran,  1 run",,4,,,"(4, 3)",3,Roy,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+197,Surrey,11,4,72,2,2,Livingstone,Roy,"Livingstone to Roy,  2 runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,2
+198,Surrey,11,5,73,2,2,Livingstone,Roy,"Livingstone to Roy,  2 runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,2
+199,Surrey,11,6,74,1,1,Livingstone,Roy,"Livingstone to Roy,  1 run",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+200,Surrey,12,1,75,4,4,Hartley,Roy,"Hartley to Roy, FOUR runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,4
+201,Surrey,12,2,76,1,1,Hartley,Roy,"Hartley to Roy,  1 run",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+202,Surrey,12,3,77,1,1,Hartley,Curran,"Hartley to Sam Curran,  1 run",,4,,,"(4, 3)",3,Roy,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+203,Surrey,12,4,78,2,2,Hartley,Roy,"Hartley to Roy,  2 runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,2
+204,Surrey,12,5,79,1,1,Hartley,Roy,"Hartley to Roy,  1 run",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+205,Surrey,12,6,80,0,0,Hartley,Curran,"Hartley to Sam Curran, no run",,4,,,"(4, 3)",3,Roy,"('Curran', 'Roy')",0,0,0,0,0,0,0,0
+206,Surrey,13,1,81,3,3,Livingstone,Roy,"Livingstone to Roy,  3 runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,3
+207,Surrey,13,2,82,1,1,Livingstone,Curran,"Livingstone to Sam Curran,  1 run",,4,,,"(4, 3)",3,Roy,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+208,Surrey,13,3,83,0,0,Livingstone,Roy,"Livingstone to Roy, no run",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,0
+209,Surrey,13,4,84,0,0,Livingstone,Roy,"Livingstone to Roy, no run",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,0
+210,Surrey,13,5,85,6,6,Livingstone,Roy,"Livingstone to Roy,  SIX runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,6
+211,Surrey,13,6,86,2,2,Livingstone,Roy,"Livingstone to Roy,  2 runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,2
+212,Surrey,14,1,87,1,1,Wood,Curran,"Wood to Sam Curran,  1 run",,4,,,"(4, 3)",3,Roy,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+213,Surrey,14,2,88,1,1,Wood,Roy,"Wood to Roy,  1 run",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+214,Surrey,14,3,89,1,1,Wood,Curran,"Wood to Sam Curran,  1 run",,4,,,"(4, 3)",3,Roy,"('Curran', 'Roy')",0,0,0,0,0,0,0,1
+215,Surrey,14,4,90,2,2,Wood,Roy,"Wood to Roy,  2 runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,2
+216,Surrey,14,5,91,2nb,2,Wood,Roy,"Wood to Roy, (no ball)",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",2,0,0,0,0,0,2,0
+217,Surrey,14,5,92,2,2,Wood,Roy,"Wood to Roy,  2 runs",,3,,,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,2
+218,Surrey,14,6,93,W,0,Wood,Roy,"Wood to Roy, OUT",Jason Roy c Croft b Wood 50 (34b 4x4 1x6 43m) SR: 147.05,3,Roy,3,"(4, 3)",4,Curran,"('Curran', 'Roy')",0,0,0,0,0,0,0,0
+219,Surrey,15,1,94,0,0,Mitchell,Curran,"Mitchell to Sam Curran, no run",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,0
+220,Surrey,15,2,95,4,4,Mitchell,Curran,"Mitchell to Sam Curran, FOUR runs",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,4
+221,Surrey,15,3,96,1,1,Mitchell,Curran,"Mitchell to Sam Curran,  1 run",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,1
+222,Surrey,15,4,97,4,4,Mitchell,Overton,"Mitchell to Overton, FOUR runs",,5,,,"(4, 5)",4,Curran,"('Curran', 'Overton')",0,0,0,0,0,0,0,4
+223,Surrey,15,5,98,1,1,Mitchell,Overton,"Mitchell to Overton,  1 run",,5,,,"(4, 5)",4,Curran,"('Curran', 'Overton')",0,0,0,0,0,0,0,1
+224,Surrey,15,6,99,0,0,Mitchell,Curran,"Mitchell to Sam Curran, no run",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,0
+225,Surrey,16,1,100,0,0,Wells,Overton,"Wells to Overton, no run",,5,,,"(4, 5)",4,Curran,"('Curran', 'Overton')",0,0,0,0,0,0,0,0
+226,Surrey,16,2,101,0,0,Wells,Overton,"Wells to Overton, no run",,5,,,"(4, 5)",4,Curran,"('Curran', 'Overton')",0,0,0,0,0,0,0,0
+227,Surrey,16,3,102,1,1,Wells,Overton,"Wells to Overton,  1 run",,5,,,"(4, 5)",4,Curran,"('Curran', 'Overton')",0,0,0,0,0,0,0,1
+228,Surrey,16,4,103,2,2,Wells,Curran,"Wells to Sam Curran,  2 runs",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,2
+229,Surrey,16,5,104,4,4,Wells,Curran,"Wells to Sam Curran, FOUR runs",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,4
+230,Surrey,16,6,105,1,1,Wells,Curran,"Wells to Sam Curran,  1 run",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,1
+231,Surrey,17,1,106,0,0,Bailey,Curran,"Bailey to Sam Curran, no run",,4,,,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,0
+232,Surrey,17,2,107,W,0,Bailey,Curran,"Bailey to Sam Curran, OUT",Sam Curran c Vilas b Bailey 17 (15b 2x4 0x6 26m) SR: 113.33,4,Curran,4,"(4, 5)",5,Overton,"('Curran', 'Overton')",0,0,0,0,0,0,0,0
+233,Surrey,17,3,108,1,1,Bailey,Jordan,"Bailey to Jordan,  1 run",,6,,,"(6, 5)",5,Overton,"('Jordan', 'Overton')",0,0,0,0,0,0,0,1
+234,Surrey,17,4,109,1,1,Bailey,Overton,"Bailey to Overton,  1 run",,5,,,"(6, 5)",6,Jordan,"('Jordan', 'Overton')",0,0,0,0,0,0,0,1
+235,Surrey,17,5,110,1,1,Bailey,Jordan,"Bailey to Jordan,  1 run",,6,,,"(6, 5)",5,Overton,"('Jordan', 'Overton')",0,0,0,0,0,0,0,1
+236,Surrey,17,6,111,1,1,Bailey,Overton,"Bailey to Overton,  1 run",,5,,,"(6, 5)",6,Jordan,"('Jordan', 'Overton')",0,0,0,0,0,0,0,1
+237,Surrey,18,1,112,1,1,Mitchell,Overton,"Mitchell to Overton,  1 run",,5,,,"(6, 5)",6,Jordan,"('Jordan', 'Overton')",0,0,0,0,0,0,0,1
+238,Surrey,18,2,113,1,1,Mitchell,Jordan,"Mitchell to Jordan,  1 run",,6,,,"(6, 5)",5,Overton,"('Jordan', 'Overton')",0,0,0,0,0,0,0,1
+239,Surrey,18,3,114,4,4,Mitchell,Overton,"Mitchell to Overton, FOUR runs",,5,,,"(6, 5)",6,Jordan,"('Jordan', 'Overton')",0,0,0,0,0,0,0,4
+240,Surrey,18,4,115,2,2,Mitchell,Overton,"Mitchell to Overton,  2 runs",,5,,,"(6, 5)",6,Jordan,"('Jordan', 'Overton')",0,0,0,0,0,0,0,2
+241,Surrey,18,5,116,2,2,Mitchell,Overton,"Mitchell to Overton,  2 runs",,5,,,"(6, 5)",6,Jordan,"('Jordan', 'Overton')",0,0,0,0,0,0,0,2
+242,Surrey,18,6,117,4,4,Mitchell,Overton,"Mitchell to Overton, FOUR runs",,5,,,"(6, 5)",6,Jordan,"('Jordan', 'Overton')",0,0,0,0,0,0,0,4
+243,Surrey,19,1,118,W,0,Bailey,Jordan,"Bailey to Jordan, OUT",Jamie Overton run out (†Buttler) 21 (12b 3x4 0x6 18m) SR: 175,6,Overton,5,"(6, 5)",5,Overton,"('Jordan', 'Overton')",0,0,0,0,0,0,0,0
+244,Surrey,19,2,119,1,1,Bailey,Narine,"Bailey to Narine,  1 run",,7,,,"(6, 7)",6,Jordan,"('Jordan', 'Narine')",0,0,0,0,0,0,0,1
+245,Surrey,19,3,120,1,1,Bailey,Jordan,"Bailey to Jordan,  1 run",,6,,,"(6, 7)",7,Narine,"('Jordan', 'Narine')",0,0,0,0,0,0,0,1
+246,Surrey,19,4,121,1,1,Bailey,Narine,"Bailey to Narine,  1 run",,7,,,"(6, 7)",6,Jordan,"('Jordan', 'Narine')",0,0,0,0,0,0,0,1
+247,Surrey,19,5,122,6,6,Bailey,Jordan,"Bailey to Jordan,  SIX runs",,6,,,"(6, 7)",7,Narine,"('Jordan', 'Narine')",0,0,0,0,0,0,0,6
+248,Surrey,19,6,123,2,2,Bailey,Jordan,"Bailey to Jordan,  2 runs",,6,,,"(6, 7)",7,Narine,"('Jordan', 'Narine')",0,0,0,0,0,0,0,2
