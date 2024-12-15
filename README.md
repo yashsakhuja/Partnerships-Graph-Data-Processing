@@ -4,6 +4,10 @@ This repository comprises of the additional pre-processing script for adding rel
 
 <img src="https://github.com/user-attachments/assets/1936e67f-c756-4ca4-b7e3-ae484883098e" alt="Description of Image" width="700" />
 
+https://public.tableau.com/app/profile/yash.sakhuja/viz/BlogPartnershipGraphsinCricketwithTableau/PartnershipsGraph
+
+https://sakhujayashofficia.wixsite.com/yashsakhuja/post/tableau-partnership-graphs-in-cricket
+
 
 Here's a detailed blog on how we scrap the data from Cricinfo and later run through their outputs thorugh this the script in this repo:
 
